@@ -16,3 +16,5 @@ Have used Logistic regression,SVM,Decision tree , Naive Bayes,KNN,perceptron to 
 69.74	Stochastic Gradient Decent
 
 Optimised/Tuned Random forest to get AUC score 0.99 and with logistic regression AUC is 0.88 
+
+P.S: Work under progess,lot of scope of furthur digging.
